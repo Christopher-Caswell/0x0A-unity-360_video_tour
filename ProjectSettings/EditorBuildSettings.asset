@@ -4,5 +4,15 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/360 VideoTour.unity
+    guid: 20fabd555e151ec4b9ca6a9f60f4cd86
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 03b4e6c9134b0ac4cbb8a24e70fa6c93, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: d5dc85ee0a7a18c4ea33f516e94c43b6, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 041e3d6c17eab02499ac61a8c09185af, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: b76b7be49b8d6ad4aa0f8f1acebf3308, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 02277d47e43af234aa2d9fed4c28c523, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 4d4870bb9699abd4fb616c44e2ffa15e, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: f3ce5cf196e93764f9b92b58729774ee, type: 2}
